@@ -36,15 +36,15 @@ Tools: Jupyter Notebook
 The repository includes code notebooks and the associated datasets for each task:
 - Task 1 (EDA):
 task1.ipynb: Exploratory Data Analysis.
-stc TV Data Set_T1.xlsb: Dataset for this task.
+
 
 - Task 2 (Predictive Modeling):
 task2.ipynb: Building a predictive model for watch hours.
-stc TV Data Set_T2.xlsx: Dataset for this task.
+
 
 - Task 3 (Recommender System):
 task3.ipynb: Developing the recommendation engine.
-stc TV Data Set_T3.xlsx: Dataset for this task.
+
  
 - Presentation:
 stc_tv_presentation.pptx: Final presentation summarizing results and recommendations.
