@@ -1,7 +1,9 @@
 # STC-TV-Data-Analysis
 
  
-This repository documents my participation in the Misk Skills Virtual Internship program as a Data Analyst, where I worked with real-world datasets from the stc tv platform. The objective of the project was to extract actionable insights, build predictive models, and develop an intelligent recommendation engine to enhance user experience.
+This repository documents my participation in the Misk Skills Virtual Internship program as a Data Analyst, where I worked with real-world datasets from the stc tv platform. 
+The objective of the project was to extract actionable insights, build predictive models, and develop an intelligent recommendation engine to enhance user experience.
+
 
 🚀 Project Overview
 
