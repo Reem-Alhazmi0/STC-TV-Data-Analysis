@@ -1,71 +1,44 @@
 # STC-TV-Data-Analysis
 
-تحليل البيانات وتطوير تجربة المستخدم - stc tv (مشروع تجربة العمل الافتراضي من مسك)
-
-هذا المستودع يوثق مشاركتي في برنامج "مسك مهارات" للعمل الافتراضي كمحلل بيانات، حيث قمت بالعمل على مجموعة بيانات حقيقية لمنصة stc tv.
-
-الهدف من المشروع كان استخراج رؤى تحليلية (Insights)، بناء نماذج تنبؤية، وتطوير محرك توصيات ذكي لتعزيز تجربة المستخدم.
-
-
-
-
-🚀 نظرة عامة على المشروع
-
-ركز المشروع على فهم سلوك المشاهدين وتخصيص تجربتهم، من خلال ثلاثة محاور رئيسية:
-
-1. تحليل سلوك المشاهدين: استكشاف أنماط المشاهدة وتفضيلات الجودة (HD vs SD).
-
-2. النمذجة التنبؤية: استخدام تعلم الآلة للتنبؤ بساعات المشاهدة المستقبلية وفهم توجهات الطلب.
-
-3. التخصيص (Personalization): تصميم محرك توصيات يعتمد على خوارزمية التشابه (Cosine Similarity) لاقتراح محتوى مخصص يتناسب مع اهتمامات المستخدمين.
-
-
-
-🛠 الأدوات والتقنيات
-
-اللغات: Python
-
-المكتبات: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-التحليل الإحصائي: معالجة البيانات، تحليل التوجهات، والنمذجة التنبؤية.
  
-الأدوات: Jupyter Notebook.
+This repository documents my participation in the Misk Skills Virtual Internship program as a Data Analyst, where I worked with real-world datasets from the stc tv platform. The objective of the project was to extract actionable insights, build predictive models, and develop an intelligent recommendation engine to enhance user experience.
 
+🚀 Project Overview
 
+The project focused on understanding viewer behavior and personalizing the user experience through three key pillars:
+Viewer Behavior Analysis: Exploring viewing patterns and quality preferences (HD vs. SD).
+Predictive Modeling: Utilizing machine learning to forecast future watch hours and understand demand trends.
+Personalization: Designing a recommendation engine based on Cosine Similarity to suggest content tailored to user interests.
 
-📂 هيكلة المستودع
+🛠 Tools and Technologies
+  
+Languages: Python
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+Statistical Analysis: Data processing, trend analysis, and predictive modeling.
+Tools: Jupyter Notebook
 
-يحتوي المستودع على ملفات الكود (Notebooks) ومجموعات البيانات (Datasets) المرتبطة بها لكل مهمة:
+📂 Repository Structure
 
-المهمة الأولى (EDA):
+The repository includes code notebooks and the associated datasets for each task:
+- Task 1 (EDA):
+   task1.ipynb: Exploratory Data Analysis.
+   stc TV Data Set_T1.xlsb: Dataset for this task.
+
+- Task 2 (Predictive Modeling):
+   task2.ipynb: Building a predictive model for watch hours.
+   stc TV Data Set_T2.xlsx: Dataset for this task.
+
+- Task 3 (Recommender System):
+   task3.ipynb: Developing the recommendation engine.
+   stc TV Data Set_T3.xlsx: Dataset for this task.
  
-task1.ipynb: تحليل استكشافي للبيانات.
- 
-stc TV Data Set_T1.xlsb: ملف البيانات الخاص بهذه المهمة.
-
-المهمة الثانية (Predictive Modeling):
- 
-task2.ipynb: بناء نموذج تنبؤي لساعات المشاهدة.
- 
-stc TV Data Set_T2.xlsx: ملف البيانات الخاص بهذه المهمة.
-
-المهمة الثالثة (Recommender System):
- 
-task3.ipynb: تطوير محرك التوصيات.
- 
-stc TV Data Set_T3.xlsx: ملف البيانات الخاص بهذه المهمة.
-
-العرض التقديمي: stc_tv_presentation.pptx (يلخص النتائج والتوصيات).
+- Presentation:
+   stc_tv_presentation.pptx: Final presentation summarizing results and recommendations.
 
 
+📊 Key Findings
+Analytical Insights: Identified popular viewing patterns and high user preference for HD quality.
+Predictive Accuracy: Successfully implemented a Random Forest model to accurately forecast viewing demand.
+Content Personalization: Built a recommendation engine capable of suggesting relevant content, aimed at increasing user engagement and retention on the platform.
 
-📊 النتائج الرئيسية
-
-الرؤى التحليلية: تحديد أنماط المشاهدة الأكثر رواجاً وتفضيلات المستخدمين للجودة العالية (HD).
-
-دقة التنبؤ: نجاح نموذج Random Forest في تقدير اتجاهات ساعات المشاهدة بدقة عالية.
-
-تخصيص المحتوى: بناء محرك توصيات قادر على اقتراح محتوى مشابه لما يفضله المستخدم، مما يعزز معدلات البقاء على المنصة.
-
-هذا المشروع هو جزء من تجربة العمل الافتراضي مع مسك مهارات وشركة stc.
-
+This project is part of the Virtual Internship experience with Misk Skills and stc.
