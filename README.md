@@ -6,6 +6,7 @@ This repository documents my participation in the Misk Skills Virtual Internship
 The objective of the project was to extract actionable insights, build predictive models, and develop an intelligent recommendation engine to enhance user experience.
 
 
+
 🚀 Project Overview
 
 The project focused on understanding viewer behavior and personalizing the user experience through three key pillars:
@@ -17,6 +18,7 @@ Predictive Modeling: Utilizing machine learning to forecast future watch hours a
 Personalization: Designing a recommendation engine based on Cosine Similarity to suggest content tailored to user interests.
 
 
+
 🛠 Tools and Technologies
   
 Languages: Python
@@ -26,6 +28,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 Statistical Analysis: Data processing, trend analysis, and predictive modeling.
 
 Tools: Jupyter Notebook
+
 
 
 📂 Repository Structure
@@ -45,6 +48,7 @@ The repository includes code notebooks and the associated datasets for each task
  
 - Presentation:
    stc_tv_presentation.pptx: Final presentation summarizing results and recommendations.
+
 
 
 📊 Key Findings
