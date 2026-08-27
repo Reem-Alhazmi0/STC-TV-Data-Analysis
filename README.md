@@ -45,10 +45,6 @@ task2.ipynb: Building a predictive model for watch hours.
 - Task 3 (Recommender System):
 task3.ipynb: Developing the recommendation engine.
 
- 
-- Presentation:
-stc_tv_presentation.pptx: Final presentation summarizing results and recommendations.
-
 
 
 📊 Key Findings
