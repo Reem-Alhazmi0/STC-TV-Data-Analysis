@@ -31,22 +31,6 @@ Tools: Jupyter Notebook
 
 
 
-📂 Repository Structure
-
-The repository includes code notebooks and the associated datasets for each task:
-- Task 1 (EDA):
-task1.ipynb: Exploratory Data Analysis.
-
-
-- Task 2 (Predictive Modeling):
-task2.ipynb: Building a predictive model for watch hours.
-
-
-- Task 3 (Recommender System):
-task3.ipynb: Developing the recommendation engine.
-
-
-
 📊 Key Findings
 
 Analytical Insights: Identified popular viewing patterns and high user preference for HD quality.
